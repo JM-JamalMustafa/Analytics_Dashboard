@@ -24,5 +24,5 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/JM-JamalMustafa/Analytics_Dashboard.git
+   cd Analytics_Dashboard
